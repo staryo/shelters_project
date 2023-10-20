@@ -1,0 +1,19 @@
+:root {
+    font-size: 1em;
+}
+
+
+.box {
+    background: transparent;
+    backdrop-filter: blur(10px);
+}
+body {
+    height: 100vh;
+    background-image: url('https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if1EkOaujUng/v0/-1x-1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+#map {
+    height: 50em;
+}
